@@ -1,3 +1,8 @@
-# Tweetertube
+# React + Vite
 
-This repository is made for the project Tweetertube . The project contains the functionalities like tweeter and youtube . Developed the CRUD operations and also the UserContext. In this project we can add videos , like videos , comment below the videos ,delete videos uploaded by us , update videos ,add tweets, edit tweets and can delete our tweets.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
